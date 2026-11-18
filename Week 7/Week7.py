@@ -130,4 +130,3 @@ summary = summarise_system_metrics(logs)
 print(summary)
 
 generate_report(summary) 
-
